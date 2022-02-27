@@ -2,23 +2,23 @@
 <?xml-stylesheet type="text/css" href="libro.css"?>
 <libros xmlns="http://www.w3.org/1999/xhtml">
 	<libro>
-		<h2>Everyday Italian</h2>
-		<p>2005</p>
-		<span>29.99</span>
+		<h2>OBRA: Everyday Italian</h2>
+		<p>•Año: 2005</p>
+		<p>•Precio:<span>29.99 </span>€</p>
 	</libro>
 	<libro>
-		<h2>Harry potter</h2>
-		<p>2005</p>
-		<span>29.99</span>
+		<h2>OBRA: Harry potter</h2>
+		<p>•Año: 2005</p>
+		<p>•Precio:<span>29.99 </span>€</p>
 	</libro>
 	<libro>
-		<h2>XQuery Kickstart</h2>
-		<p>2003</p>
-		<span>49.99</span>
+		<h2>OBRA: XQuery Kickstart</h2>
+		<p>•Año: 2003</p>
+		<p>•Precio:<span>49.99 </span>€</p>
 	</libro>
 	<libro>
-		<h2>Learning XML (en)</h2>
-		<p>2003</p>
-		<span>39.95</span>
+		<h2>OBRA: Learning XML (en)</h2>
+		<p>•Año: 2003</p>
+		<p>•Precio:<span>39.95 </span>€</p>
 	</libro>
 </libros>
