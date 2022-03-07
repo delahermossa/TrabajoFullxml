@@ -1,10 +1,18 @@
+*{
+    display: block;
+    margin: 8px;
+}
 span{
-    display: inline-block;
-    list-style: disc inside;
-    margin-left: 20px;
+    background-color: yellow;
     font-weight: bold;
-    background-color: gold;
+    display: inline;
+    margin: 0px;
 }
 p{
     color: blue;
+    
+}
+h2{
+    margin-top: 18;
+    margin-bottom: 18;
 }
